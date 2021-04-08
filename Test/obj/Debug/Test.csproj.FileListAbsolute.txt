@@ -1,0 +1,51 @@
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Test.dll
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Test.pdb
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Source.exe
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Source.pdb
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\obj\Debug\Test.dll
+c:\users\giovanni\documents\visual studio 2015\Projects\TP4_Tetris\Test\obj\Debug\Test.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Test.dll
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Test.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Source.exe
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Source.pdb
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\obj\Debug\Test.dll
+E:\Corsi\Cours GL\Esercizi\TP3_Tetris\Test\obj\Debug\Test.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\bin\Debug\Test.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\bin\Debug\Test.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\bin\Debug\Source.exe
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\bin\Debug\Source.pdb
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\obj\Debug\Test.dll
+C:\Users\chierchg\Corsi\GL\Esercizi\TP2_Tetris\Test\obj\Debug\Test.pdb
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Test.dll
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Test.pdb
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Source.exe
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Source.pdb
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Source.exe.config
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.csproj.CopyComplete
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.dll
+F:\Cours\Génie logiciel\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.pdb
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.dll
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.pdb
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Test.dll
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Test.pdb
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Source.exe
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Source.pdb
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\Source.exe.config
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Cours\Génie logiciel\OLD\TP2_Tetris_v2\TP2_Tetris\Test\obj\Debug\Test.csproj.CopyComplete
